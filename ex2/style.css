@@ -1,0 +1,158 @@
+ul{
+	list-style-type:none;
+	padding:0px;
+	overflow:hidden;
+	background-color:#fff777;
+	border-radius:50px;
+}
+
+li{
+	float:left;
+}
+
+li a {
+	display:block;
+	color:black;
+	text-align:center;
+	padding:20px;
+	width:100px;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color:#d7daff;
+}
+
+div:hover {
+	background-color:#00c5fa;
+	animation: jesucristo .3s;
+	
+}
+
+.fuego{
+	background-color: #ff4c33;
+	border-radius: 50px;
+}
+
+.psíquico{
+	background-color: #ff79fd;
+	border-radius: 50px;
+}
+
+.volador{
+	background-color:#a8ffe5;
+	border-radius: 50px;
+}
+
+.fantasma{
+	background-color:#aa85ff;
+	border-radius: 50px;
+}
+
+.veneno{
+	background-color:#9300ff;
+	border-radius: 50px;
+}
+
+.planta{
+	background-color:#47e545;
+	border-radius: 50px;
+}
+
+.agua{
+	background-color:#1eccff;
+	border-radius: 50px;
+}
+
+.drgaon{
+	background-color:#9300ff;
+	border-radius: 50px;
+}
+
+.bicho{
+	background-color:#97ff1a;
+	border-radius: 50px;
+}
+
+.roca{
+	background-color:#b48b3d;
+	border-radius: 50px;
+}
+
+.tierra{
+	background-color:#fabc45;
+	border-radius: 50px;
+}
+
+.hielo{
+	background-color:#7cfff1;
+	border-radius: 50px;
+	
+}
+
+
+.eléctrico{
+	background-color:#fbf80e;
+	border-radius: 50px;
+}
+
+.lucha{
+	background-color:#d16f64;
+	border-radius: 50px;
+}
+
+.normal{
+	background-color:#f9f0ef;
+	border-radius: 50px;
+}
+
+.poke {
+	width:80px;
+	text-align:center;
+	margin: 10px;
+	padding: 10px;
+}
+
+
+
+
+h3 {
+	padding:20px;
+	
+	}
+
+
+
+
+
+@keyframes jesucristo {
+	0%,
+	100% {
+		transform:translateY(0);
+	}
+	50% {
+		transform:translateY(+.4rem); 
+	}
+}
+
+.des {
+	background-color: #6aff92;
+	margin: 5px;
+	border-radius:20px;
+	
+}
+
+
+#container {
+	text-align:center;
+}
+
+.card {
+
+	text-align:center;
+	background-color:#00ff93;
+	border-radius:50px;
+	margin: 1rem;
+	padding-bottom:1rem;
+	
+}
